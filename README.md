@@ -32,4 +32,7 @@ Opin spurning er þar sem er spurt viðskiptavinninn hvað hann heldur að vanda
 Lokuð spurning er þar sem er venjulega já eða nei svar.
 
 8. Hvað eru jaðartæki?
-Eru hlutir fyrir utan tölvuna eins og mús, lyklaborð og heyrnatól.
+Eru hlutir fyrir utan tölvuna eins og mús, lyklaborð, heyrnatól o.s.frv.
+
+9. Nefndu þrjú dæmi um inntakstæki.
+Það eru tæki sem sendur tölvunni upplýsingar eins og mýs, lyklaborð, myndavél o.s.frv
