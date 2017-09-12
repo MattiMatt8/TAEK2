@@ -15,3 +15,5 @@ ROM er aðeins hægt að skrifa á, ekki eyða af né bæta við og er sett inn 
 ESD stendur fyrir "Electrostatic discharge"
 ESD er þar sem bygging á rafmagni og maður getur þar að segja gefið rafmagns sjokk sem getur léttilega eyðinlagt tölvuhluti sem maður snertir.  Maður getur verið með Antistatic wrist strap til þess að rafmagnið fari frekar í gegn um það en tölvu parta sem maður er að vinna á og svo er líka til antistatic motta sem gerir það sama.
 
+### 5. Hvað þarf að hafa í huga við val á spennugjöfum?
+Að hann sé nógu mörg watt fyrir tölvuna til þess að keyra, að hann sé rétt stærð fyrir kassann manns ef maður er með lítinn kassa, að hann er með réttar snúrur fyrir tölvuíhlutina sem maður vill nota og að hann sé með rétta input fyrir landið sem maður er í.
