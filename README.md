@@ -50,3 +50,5 @@ Corsair 16GB kit (2x8GB) DDR4 3200MHz   | 20.900 | [Tölvutækni](http://tolvuta
 Samsung 850 EVO 250GB 2.5" SSD   | 15.900 | [Tölvutækni](http://tolvutaekni.is/product_info.php?products_id=2879)
 Corsair RM750x   | 22.750 | [Att](https://www.att.is/product/corsair-rm750x-aflgjafi)
 Corsair Graphite 230TW    | 19.450 | [Att](https://www.att.is/product/corsair-graphite-230tw-kassi)
+Seagate 3TB    | 15.900 | [Tölvutækni](http://tolvutaekni.is/product_info.php?products_id=2341)
+Samtals | 249.700 | |
