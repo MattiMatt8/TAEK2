@@ -25,3 +25,8 @@ Að hann sé nógu mörg watt fyrir tölvuna til þess að keyra, að hann sé r
 4. Búa til plan hvað á að gera til þess að laga vandamálið, fara í gegnums sjöl og finna bestu leiðina til þess að laga vandamálin.
 5. Prufa allt, vera alveg 100% að allt virki prufa að fara í gegnum allt sem hægt er til að vera viss um að allt virki.
 6. Skrifa hjá sér hvað vandamálið var, hvað var gert til að laga það, útkoman, tala við manneskjuna sem á tölvuna um hvað vandamálið var o.s.frv.
+
+### 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
+Nefnið dæmi um báðar gerðir af spurningum.
+Opin spurning er þar sem er spurt viðskiptavinninn hvað hann heldur að vandamálið sé í hans eigin orðum.
+Lokuð spurning er þar sem er venjulega já eða nei svar.
