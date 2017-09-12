@@ -30,3 +30,6 @@ Að hann sé nógu mörg watt fyrir tölvuna til þess að keyra, að hann sé r
 Nefnið dæmi um báðar gerðir af spurningum.
 Opin spurning er þar sem er spurt viðskiptavinninn hvað hann heldur að vandamálið sé í hans eigin orðum.
 Lokuð spurning er þar sem er venjulega já eða nei svar.
+
+8. Hvað eru jaðartæki?
+Eru hlutir fyrir utan tölvuna eins og mús, lyklaborð og heyrnatól.
