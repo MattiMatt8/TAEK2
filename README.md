@@ -36,3 +36,17 @@ Eru hlutir fyrir utan tölvuna eins og mús, lyklaborð, heyrnatól o.s.frv.
 
 9. Nefndu þrjú dæmi um inntakstæki.
 Það eru tæki sem sendur tölvunni upplýsingar eins og mýs, lyklaborð, myndavél o.s.frv
+
+10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
+leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
+fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+
+Tölvupartur | Kostnaður | Búð
+--- | --- | ---
+Intel Core i7-7700K | 45.900 | [Tölvutækni](http://tolvutaekni.is/product_info.php?products_id=3271)
+MSI Z270 PC Mate  | 23.950 | [Att](https://att.is/product/msi-z270-pc-mate-modurbord)
+MSI GTX1080 Armor   | 84.950 | [Att](https://www.att.is/product/msi-gtx1080-armor-skjakort)
+Corsair 16GB kit (2x8GB) DDR4 3200MHz   | 20.900 | [Tölvutækni](http://tolvutaekni.is/product_info.php?cPath=28_34_166&products_id=3052)
+Samsung 850 EVO 250GB 2.5" SSD   | 15.900 | [Tölvutækni](http://tolvutaekni.is/product_info.php?products_id=2879)
+Corsair RM750x   | 22.750 | [Att](https://www.att.is/product/corsair-rm750x-aflgjafi)
+Corsair Graphite 230TW    | 19.450 | [Att](https://www.att.is/product/corsair-graphite-230tw-kassi)
