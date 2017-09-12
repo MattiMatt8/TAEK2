@@ -32,8 +32,7 @@ Að hann sé nógu mörg watt fyrir tölvuna til þess að keyra, að hann sé r
 5. Prufa allt, vera alveg 100% að allt virki prufa að fara í gegnum allt sem hægt er til að vera viss um að allt virki.
 6. Skrifa hjá sér hvað vandamálið var, hvað var gert til að laga það, útkoman, tala við manneskjuna sem á tölvuna um hvað vandamálið var o.s.frv.
 
-### 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
-Nefnið dæmi um báðar gerðir af spurningum.
+### 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
 ------
 Opin spurning er þar sem er spurt viðskiptavinninn hvað hann heldur að vandamálið sé í hans eigin orðum.
 Lokuð spurning er þar sem er venjulega já eða nei svar.
@@ -46,9 +45,7 @@ Eru hlutir fyrir utan tölvuna eins og mús, lyklaborð, heyrnatól o.s.frv.
 ------
 Það eru tæki sem sendur tölvunni upplýsingar eins og mýs, lyklaborð, myndavél o.s.frv
 
-### 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
-leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
-fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+### 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
 ------
 Tölvupartur | Kostnaður | Búð
 --- | --- | ---
