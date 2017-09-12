@@ -52,3 +52,4 @@ Corsair RM750x   | 22.750 | [Att](https://www.att.is/product/corsair-rm750x-aflg
 Corsair Graphite 230TW    | 19.450 | [Att](https://www.att.is/product/corsair-graphite-230tw-kassi)
 Seagate 3TB    | 15.900 | [Tölvutækni](http://tolvutaekni.is/product_info.php?products_id=2341)
 Samtals | 249.700 | |
+![alt text](https://cdn.att.is/skrar/image/ILF672/COR-230TWBK.png "Tölvukassi")
