@@ -17,3 +17,11 @@ ESD er þar sem bygging á rafmagni og maður getur þar að segja gefið rafmag
 
 ### 5. Hvað þarf að hafa í huga við val á spennugjöfum?
 Að hann sé nógu mörg watt fyrir tölvuna til þess að keyra, að hann sé rétt stærð fyrir kassann manns ef maður er með lítinn kassa, að hann er með réttar snúrur fyrir tölvuíhlutina sem maður vill nota og að hann sé með rétta input fyrir landið sem maður er í.
+
+### 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+1. Reyna að finna út hvað vandamálið gæti verið með því að tala við sá sem á tölvuna, kíkja á villu skilaboð o.s.frv
+2. Skrifa niður það sem er að gerast og reyna að skrifa hvað gæti verið að gerast og fara í gegnum það sem gerist oftast.
+3. Prufa það sem maður heldur að sé og að finna út hvað það er sem veldur því að gerast.
+4. Búa til plan hvað á að gera til þess að laga vandamálið, fara í gegnums sjöl og finna bestu leiðina til þess að laga vandamálin.
+5. Prufa allt, vera alveg 100% að allt virki prufa að fara í gegnum allt sem hægt er til að vera viss um að allt virki.
+6. Skrifa hjá sér hvað vandamálið var, hvað var gert til að laga það, útkoman, tala við manneskjuna sem á tölvuna um hvað vandamálið var o.s.frv.
